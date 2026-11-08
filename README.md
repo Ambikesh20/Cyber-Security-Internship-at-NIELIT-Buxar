@@ -1,79 +1,93 @@
-# Cyber Security Internship 🔐
+# 🔐 Cyber Security Internship – NIELIT Buxar
 
-Welcome to my Cyber Security Internship repository!
+Welcome to my **Cyber Security Internship Repository**! This repository contains my learning materials, weekly tasks, practical work, resources, and documentation completed during my 4-week Cyber Security Internship at **NIELIT Buxar**.
 
-This repository contains my learning journey, practical exercises, assignments, tools, and projects completed during my Cyber Security Internship at **NIELIT Buxar**.
+## 📌 About the Internship
 
-## 📌 Internship Details
-
-- **Organization:** NIELIT Buxar
+- **Organization:** National Institute of Electronics & Information Technology (NIELIT), Buxar
 - **Domain:** Cyber Security
-- **Internship Type:** Technical Internship
-- **Mode:** Offline
-- **Duration:** June – July 2025
-
-## 🎯 Learning Objectives
-
-- Understand cybersecurity fundamentals.
-- Learn about network security and vulnerabilities.
-- Explore ethical hacking concepts.
-- Understand common cyber attacks and prevention techniques.
-- Gain practical experience with cybersecurity tools.
-- Learn basic security testing methodologies.
-
-## 🛠️ Tools & Technologies
-
-- Kali Linux
-- Linux Command Line
-- Nmap
-- Wireshark
-- Burp Suite
-- Metasploit Framework
+- **Duration:** 4 Weeks
+- **Field:** Information Technology & Cyber Security
 
 ## 📂 Repository Structure
 
 ```text
-Cyber-Security-Internship/
+Cyber-Security-Internship-at-NIELIT-Buxar/
 │
-├── Tasks/
-│   ├── Task-01/
-│   ├── Task-02/
-│   └── Task-03/
+├── 5_Others/
 │
-├── Practical/
+├── Images/
 │
-├── Notes/
+├── week 1/
 │
-├── Screenshots/
+├── week 2/
+│
+├── week 3/
+│
+├── week 4/
+│
+├── 4 week cyber security syllabus.pdf
+│
+├── Ambikesh Cyber Security Certificate.jpg
+│
+├── Internship report Ambikesh.pdf
+│
+├── Internship report.docx
 │
 └── README.md
 ```
 
-## 📚 Key Topics Covered
+## 📚 Contents
 
-- Introduction to Cyber Security
-- Ethical Hacking Fundamentals
-- Networking Basics
-- Network Scanning
-- Vulnerability Assessment
-- Web Application Security
-- Linux Fundamentals
-- Cyber Threats and Prevention
+| Folder / File | Description |
+|---|---|
+| `week 1` | First week's learning materials and tasks |
+| `week 2` | Second week's learning materials and tasks |
+| `week 3` | Third week's learning materials and tasks |
+| `week 4` | Fourth week's learning materials and tasks |
+| `5_Others` | Additional internship resources |
+| `Images` | Images and screenshots related to the internship |
+| `4 week cyber security syllabus.pdf` | Internship syllabus |
+| `Internship report Ambikesh.pdf` | Final internship report |
+| `Internship report.docx` | Editable internship report |
+| `Ambikesh Cyber Security Certificate.jpg` | Internship certificate |
 
-## 🎓 Internship Experience
+## 🎯 Learning Objectives
 
-This internship helped me understand the fundamentals of cybersecurity and gain practical exposure to security tools, networking concepts, and vulnerability analysis.
+During this internship, I focused on:
+
+- Understanding Cyber Security fundamentals.
+- Learning about common cyber threats and vulnerabilities.
+- Exploring security concepts and practices.
+- Developing practical knowledge through weekly activities.
+- Understanding the importance of digital security.
+
+## 💡 Skills & Knowledge Gained
+
+- Cyber Security Fundamentals
+- Network Security Concepts
+- Information Security Awareness
+- Cyber Threat Awareness
+- Practical Learning and Documentation
+
+## 📄 Internship Documentation
+
+The repository includes my internship certificate and final internship report for reference.
 
 ## 👨‍💻 Author
 
-**Ambikesh Kumar (Abhi)**
+**Ambikesh Kumar**
 
-Computer Science & Engineering Student  
-Government Engineering College, Kaimur, Bihar
+- 🎓 B.Tech – Computer Science & Engineering
+- 🏫 Government Engineering College, Kaimur
+- 💻 Interested in Cyber Security, Software Development and Technology.
 
-- GitHub: [Add Your GitHub Profile]
-- LinkedIn: [Add Your LinkedIn Profile]
+## ⭐ Acknowledgement
+
+I sincerely thank **NIELIT Buxar** for providing me with this learning opportunity and helping me gain knowledge and practical exposure in the field of Cyber Security.
 
 ---
 
-⭐ If you find this repository useful, feel free to explore it!
+*This repository is maintained for learning, documentation, and educational purposes.*
+
+**Thank you for visiting my repository!** 😊
